@@ -30,7 +30,7 @@ body {
 
 .hero-container {
     background: linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.5)), 
-                url('../img/fondo-inicio.jpg') no-repeat center center/cover;
+                url('img/fondo-inicio.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
